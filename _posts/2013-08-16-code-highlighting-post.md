@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beerpassieweeknd
+title: Beerpassieweekend
 date: 2013-08-16
 excerpt: "Annual beer festival."
 tags: [sample post, code, highlighting]
