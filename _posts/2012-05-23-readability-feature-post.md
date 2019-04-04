@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Café d’anvers presents Subjected (live)"
-date: 2012-05-23
+date: 2019-05-23
 excerpt: "Nightclub Antwerp"
-tags: [sample post, readability, test, image, feature]
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
 ---
