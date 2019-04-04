@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Lars von Trier - Melancholia: The Diamond"
-date: 2012-05-22
+date: 2019-05-22
 excerpt: "A story about the movie Melancholia."
-tags: [sample post, readability, test]
 comments: true
 ---
 
