@@ -12,7 +12,7 @@ comments: false
   Adventure is having fun. Is new experiences. Is just a great time. The name capsulates the feeling and idea with this beer.
   Every three months this beer gets updated with new events, new experiences, new great times to make you entertained and fill you with joy.Here you will have a pilsner different in all cities but not in taste. Different in adventures. 
 
-Inline-style: 
+
 ![alt text](https://i.imgur.com/GhYfjtT.png)
 ![alt text](https://i.imgur.com/z4b1Io5.png)
 
