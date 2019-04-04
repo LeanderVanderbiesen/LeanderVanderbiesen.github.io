@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+title: All Events
+excerpt: "A List of current Events"
 comments: false
 ---
