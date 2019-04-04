@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Antwerp Metal Fest"
-date: 2013-05-22
+date: 2019-05-22
 excerpt: "Metal festival for a wide audience"
-tags: [sample post, images, test]
 comments: true
 ---
 
